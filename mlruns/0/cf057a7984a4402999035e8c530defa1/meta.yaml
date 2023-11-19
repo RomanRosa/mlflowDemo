@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/cf057a7984a4402999035e8c530defa1/artifacts
+end_time: 1700416981389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf057a7984a4402999035e8c530defa1
+run_name: omniscient-midge-469
+run_uuid: cf057a7984a4402999035e8c530defa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416574347
+status: 3
+tags: []
+user_id: roman.pena

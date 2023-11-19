@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/cba3a3e1e15d42699fffee55ae921b95/artifacts
+end_time: 1700417102288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cba3a3e1e15d42699fffee55ae921b95
+run_name: spiffy-fawn-188
+run_uuid: cba3a3e1e15d42699fffee55ae921b95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416574347
+status: 4
+tags: []
+user_id: roman.pena

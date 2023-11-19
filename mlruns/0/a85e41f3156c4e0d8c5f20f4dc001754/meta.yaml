@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/a85e41f3156c4e0d8c5f20f4dc001754/artifacts
+end_time: 1700416987932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a85e41f3156c4e0d8c5f20f4dc001754
+run_name: fearless-duck-898
+run_uuid: a85e41f3156c4e0d8c5f20f4dc001754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416574347
+status: 3
+tags: []
+user_id: roman.pena

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/2db16f8405644647912a125664e01dcd/artifacts
+end_time: 1700260890251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2db16f8405644647912a125664e01dcd
+run_name: secretive-turtle-772
+run_uuid: 2db16f8405644647912a125664e01dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700260887155
+status: 3
+tags: []
+user_id: roman.pena

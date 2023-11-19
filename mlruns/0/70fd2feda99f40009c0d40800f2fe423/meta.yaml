@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/70fd2feda99f40009c0d40800f2fe423/artifacts
+end_time: 1700416981389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70fd2feda99f40009c0d40800f2fe423
+run_name: able-loon-5
+run_uuid: 70fd2feda99f40009c0d40800f2fe423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416574347
+status: 3
+tags: []
+user_id: roman.pena

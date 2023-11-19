@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/63cef872408a4a56ba53619b5fb1c343/artifacts
+end_time: 1700416987932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63cef872408a4a56ba53619b5fb1c343
+run_name: serious-rat-41
+run_uuid: 63cef872408a4a56ba53619b5fb1c343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416574347
+status: 3
+tags: []
+user_id: roman.pena

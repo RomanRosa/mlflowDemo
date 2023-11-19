@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/f5c7ba9287eb4c7093f43e2241fd21a9/artifacts
+end_time: 1700260909067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5c7ba9287eb4c7093f43e2241fd21a9
+run_name: masked-newt-627
+run_uuid: f5c7ba9287eb4c7093f43e2241fd21a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700260906065
+status: 3
+tags: []
+user_id: roman.pena

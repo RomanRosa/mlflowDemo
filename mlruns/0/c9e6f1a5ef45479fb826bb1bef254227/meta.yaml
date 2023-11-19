@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/c9e6f1a5ef45479fb826bb1bef254227/artifacts
+end_time: 1700416987932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9e6f1a5ef45479fb826bb1bef254227
+run_name: useful-duck-979
+run_uuid: c9e6f1a5ef45479fb826bb1bef254227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416574347
+status: 3
+tags: []
+user_id: roman.pena

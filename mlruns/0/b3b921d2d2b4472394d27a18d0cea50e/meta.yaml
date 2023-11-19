@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/b3b921d2d2b4472394d27a18d0cea50e/artifacts
+end_time: 1700416987932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3b921d2d2b4472394d27a18d0cea50e
+run_name: placid-hog-460
+run_uuid: b3b921d2d2b4472394d27a18d0cea50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700416574347
+status: 3
+tags: []
+user_id: roman.pena

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/86dd4d36022a4eae9b365015c5a65ce8/artifacts
+end_time: 1700415631648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86dd4d36022a4eae9b365015c5a65ce8
+run_name: able-shrike-686
+run_uuid: 86dd4d36022a4eae9b365015c5a65ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700415410877
+status: 4
+tags: []
+user_id: roman.pena

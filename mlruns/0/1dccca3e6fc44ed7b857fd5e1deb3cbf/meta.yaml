@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/gitrepos/MLflow_Basic_Demo/mlruns/0/1dccca3e6fc44ed7b857fd5e1deb3cbf/artifacts
+end_time: 1700260389390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dccca3e6fc44ed7b857fd5e1deb3cbf
+run_name: unique-robin-784
+run_uuid: 1dccca3e6fc44ed7b857fd5e1deb3cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700260386368
+status: 3
+tags: []
+user_id: roman.pena
